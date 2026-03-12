@@ -1,6 +1,7 @@
 # er
 
 A basic frontend that displays "Hello Cutie!" upon opening.
+Also added Imposon as it is my username
 
 ## Usage
 
