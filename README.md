@@ -16,3 +16,5 @@ Then open your browser and navigate to `http://localhost:8000`.
 ## Files
 
 - `index.html`: The main HTML page with the message.
+
+- I might run few scripts ofr testing as well
