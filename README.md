@@ -8,10 +8,8 @@ Also added Imposon as it is my username
 To run the frontend, start a simple HTTP server:
 
 ```bash
-python3 -m http.server 8000
+npm run dev
 ```
-
-Then open your browser and navigate to `http://localhost:8000`.
 
 ## Files
 
