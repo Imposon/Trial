@@ -16,3 +16,7 @@ npm run dev
 - `index.html`: The main HTML page with the message.
 
 - I might run few scripts ofr testing as well
+
+---
+Also added Jupyter notebook
+---
